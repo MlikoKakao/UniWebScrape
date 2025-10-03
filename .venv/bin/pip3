@@ -1,4 +1,4 @@
-#!/home/mk/code/python_proj/.venv/bin/python3
+#!/home/mk/code/python_proj/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
